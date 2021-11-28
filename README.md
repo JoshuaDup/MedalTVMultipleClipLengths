@@ -7,6 +7,7 @@ Use multiple keybinds for multiple different clip lengths ranging from 30s to 5 
   
         ===Prerequisites===
 https://www.autohotkey.com/download/ahk-install.exe
+--------------------------------------------------------------------
 https://medal.tv/thankyou
 ---------------------------------------------------------------------
 
