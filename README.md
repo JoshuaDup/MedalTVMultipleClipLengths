@@ -12,6 +12,7 @@ https://medal.tv/thankyou
 ---------------------------------------------------------------------
 
 			===GETTING STARTED===
+EXTRACT THE FILES FIRST OR ELSE YOU'LL HAVE A BAD TIME (you know who you are person who made me have to put this)
 
 Before running any scripts, please put your clip folder directory in the "ClipsLocation.txt" file.
 
