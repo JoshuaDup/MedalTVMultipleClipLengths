@@ -27,7 +27,7 @@ Set your clip length in Medal to 5 Minutes
 
 
 
-      			===Troubleshooting===
+      		===Troubleshooting===
 If your clips aren't saving to your output, edit the Working.AHK file and raise your delay (in miliseconds)
 
 If that does not help, contact me through discord at -Josh-#1082. 
