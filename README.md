@@ -11,6 +11,7 @@ https://www.autohotkey.com/download/ahk-install.exe
 https://medal.tv/thankyou
 ---------------------------------------------------------------------
 
+	===GETTING STARTED===
 
 Before running any scripts, please put your clip folder directory in the "ClipsLocation.txt" file.
 
