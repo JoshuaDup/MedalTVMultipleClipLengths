@@ -1,7 +1,7 @@
 # MedalTVMultipleClipLengths
 Use multiple keybinds for multiple different clip lengths ranging from 30s to 5 minutes.
 
-	##NOTICE##
+			##NOTICE##
   
   This script is in no way, shape, or form associated with Medal.tv, Ferox, or any of it's team. This is an individual project made with the help and guidance of Medal Staff, however, this is not their responsibility. Read the Troubleshooting section at the bottom of the page to find how to contact me.
   
