@@ -25,6 +25,8 @@ Run "Working.ahk"
 
 Set your clip length in Medal to 5 Minutes
 
+Launch a game and press any of the hotkeys: F9: 30 Seconds F10: 45 Seconds F11: 90 Seconds and F12: 120 Seconds
+
 
 
 
