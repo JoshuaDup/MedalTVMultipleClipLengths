@@ -19,9 +19,12 @@ Also put the location you want your clips to output to in "ClipOutput.txt"
 
 After you input your Clip Directoreis, run "RunFirst.bat"
 
+If you have a hotkey other than Medal's default F8, you need to edit what keybind it uses in "Working.ahk"
+
 Run "Working.ahk"
 
 Set your clip length in Medal to 5 Minutes
+
 
 
 
